@@ -25,5 +25,3 @@ Java(Kotlin)/Spring 기반 백엔드 개발을 하고있습니다. <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keunwon&exclude_repo=dkssud8150.github.io&layout=compact&theme=dracula" height="135"/>
 <img src="https://github-readme-stats.vercel.app/api?username=keunwon&hide=contribs,prs,issues&show_icons=true&theme=dracula"height="135"/>
 </div>
-~
-~
